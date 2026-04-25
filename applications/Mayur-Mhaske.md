@@ -1,27 +1,31 @@
 # Application: Mayur Mhaske
+
 ---
 
 ## 1. Name
-
 Mayur Maruti Mhaske
 
 ## 2. Portfolio
-
-https://personal-portfolio-nine-mu-71.vercel.app/
+[personal-portfolio-nine-mu-71.vercel.app](https://personal-portfolio-nine-mu-71.vercel.app/)
 
 ## 3. LinkedIn
-
-https://www.linkedin.com/in/mayur-mhaske-b75aa62b5
+[linkedin.com/in/mayur-mhaske-b75aa62b5](https://www.linkedin.com/in/mayur-mhaske-b75aa62b5)
 
 ## 4. A project you've shipped recently
 
-GenUI Expert System — gen-ui-sigma-eight.vercel.app · GitHub
-An AI-powered UI component generator built with React.js and the Gemini API. You describe a component in plain text, and it produces production-ready code across 5+ frameworks — HTML/CSS, Tailwind, Bootstrap — with a live preview engine that renders output instantly. I handled everything: prompt design, API integration, live preview logic, and the UI. If I were to redo it, I'd add a design-token system so generated components feel consistent across a project, not just individually correct.
+### [GenUI Expert System](https://gen-ui-sigma-eight.vercel.app/) · [GitHub](https://github.com/Mayur-Mhaske/GenUI-Expert-System)
 
-Inventory Management System — GitHub
-A full-stack warehouse and accounting system built for a real farmers' association using MERN stack. I designed the entire UI in Marathi (regional language), implemented role-based access for admins and farmers, and built real-time inventory tracking that directly prevented financial loss from stock mismanagement. Looking back, I'd invest more time in the UX research upfront — talking to the farmers earlier would've changed several design decisions.
+- An AI-powered UI component generator built with React.js and the Gemini API.
+- Supports 5+ framework modes — HTML/CSS, Tailwind, Bootstrap — with a live preview engine that renders output instantly.
+- I handled everything: prompt design, API integration, live preview logic, and the UI.
+- **What I'd change:** Add a design-token system so generated components feel consistent across a project, not just individually correct.
 
+### [Inventory Management System](https://github.com/Mayur-Mhaske/inventory_management-system0)
 
+- Full-stack warehouse and accounting system built for a real farmers' association using MERN stack.
+- Designed the entire UI in Marathi, with role-based access for admins and farmers.
+- Built real-time inventory tracking that directly prevented financial loss from stock mismanagement.
+- **What I'd change:** Invest more time in UX research upfront — talking to the farmers earlier would've changed several design decisions.
 
 ## 5. Why you want to join Amber
 
